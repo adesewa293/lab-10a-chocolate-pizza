@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.icon-list {
+  text-align: right;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  max-width: 960px;
+  margin: 0 auto;
+  
+}
+button{
+  
+}
+.recipe-list {
+  background-image: url("list-bg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.print-icon {
+  text-align: right;
+  /* display: inline; */
+}
